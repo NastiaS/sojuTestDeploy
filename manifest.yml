@@ -1,0 +1,4 @@
+---
+applications:
+- name: somekindofnameapp
+  memory: 256M
